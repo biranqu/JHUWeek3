@@ -1,0 +1,78 @@
+CODEBOOK
+Subjects (S) 2
+	Identification Number
+	01-30 Number is used to identify the subject used for a different measurements
+
+Activity (A) 6- 18
+	Activity which the subjects performed, during which measurements were taken.
+Source 4-5
+	Indication whether the measurements were taken during the initial train phase, or the test phase.
+
+All other columns are processed data of the measurements taken (specifically an extraction of all means and standard deviation calculations).
+
+V1 tBodyAcc-mean()-X
+V2 tBodyAcc-mean()-Y
+V3 tBodyAcc-mean()-Z
+V4 tBodyAcc-std()-X
+V5 tBodyAcc-std()-Y
+V6 tBodyAcc-std()-Z
+V7 tGravityAcc-mean()-X
+V8 tGravityAcc-mean()-Y
+V9 tGravityAcc-mean()-Z
+V10 tGravityAcc-std()-X
+V11 tGravityAcc-std()-Y
+V12 tGravityAcc-std()-Z
+V13 tBodyAccJerk-mean()-X
+V14 tBodyAccJerk-mean()-Y
+V15 tBodyAccJerk-mean()-Z
+V16 tBodyAccJerk-std()-X
+V17 tBodyAccJerk-std()-Y
+V18 tBodyAccJerk-std()-Z
+V19 tBodyGyro-mean()-X
+V20 tBodyGyro-mean()-Y
+V21 tBodyGyro-mean()-Z
+V22 tBodyGyro-std()-X
+V23 tBodyGyro-std()-Y
+V24 tBodyGyro-std()-Z
+V25 tBodyGyroJerk-mean()-X
+V26 tBodyGyroJerk-mean()-Y
+V27 tBodyGyroJerk-mean()-Z
+V28 tBodyGyroJerk-std()-X
+V29 tBodyGyroJerk-std()-Y
+V30 tBodyGyroJerk-std()-Z
+V31 tBodyAccMag-mean()
+V32 tBodyAccMag-std()
+V33 tGravityAccMag-mean()
+V34 tGravityAccMag-std()
+V35 tBodyAccJerkMag-mean()
+V36 tBodyAccJerkMag-std()
+V37 tBodyGyroMag-mean()
+V38 tBodyGyroMag-std()
+V39 tBodyGyroJerkMag-mean()
+V40 tBodyGyroJerkMag-std()
+V41 fBodyAcc-mean()-X
+V42 fBodyAcc-mean()-Y
+V43 fBodyAcc-mean()-Z
+V44 fBodyAcc-std()-X
+V45 fBodyAcc-std()-Y
+V46 fBodyAcc-std()-Z
+V47 fBodyAccJerk-mean()-X
+V48 fBodyAccJerk-mean()-Y
+V49 fBodyAccJerk-mean()-Z
+V50 fBodyAccJerk-std()-X
+V51 fBodyAccJerk-std()-Y
+V52 fBodyAccJerk-std()-Z
+V53 fBodyGyro-mean()-X
+V54 fBodyGyro-mean()-Y
+V55 fBodyGyro-mean()-Z
+V56 fBodyGyro-std()-X
+V57 fBodyGyro-std()-Y
+V58 fBodyGyro-std()-Z
+V59 fBodyAccMag-mean()
+V60 fBodyAccMag-std()
+V61 fBodyBodyAccJerkMag-mean()
+V62 fBodyBodyAccJerkMag-std()
+V63 fBodyBodyGyroMag-mean()
+V64 fBodyBodyGyroMag-std()
+V65 fBodyBodyGyroJerkMag-mean()
+V66 fBodyBodyGyroJerkMag-std()
